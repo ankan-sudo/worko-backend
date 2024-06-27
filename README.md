@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/worko-backend.git
+    git clone https://github.com/ankan-sudo/worko-backend.git
     cd worko-backend
     ```
 
